@@ -1,4 +1,4 @@
-const apiKey = "09d0496d3ea44adbaa7f77dbc7ad2b89"; 
+const apiKey = "440320fe1f97492ea6dfdbf3278492f2"; 
 const searchInput = document.getElementById("searchInput");
 
 
@@ -61,3 +61,4 @@ function searchNews() {
 function toggleMenu() {
   document.getElementById("menu").classList.toggle("show");
 }
+
